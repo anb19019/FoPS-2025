@@ -1,0 +1,40 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Aug 19 13:07:18 2025
+#
+# User preference: *
+#
+# CONSTRAINT:  where (hostname like '%Kepler-223%')
+#
+# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN discoverymethod: Discovery Method
+# COLUMN disc_year:      Discovery Year
+# COLUMN disc_facility:  Discovery Facility
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]
+# COLUMN pl_rade:        Planet Radius [Earth Radius]
+# COLUMN pl_radj:        Planet Radius [Jupiter Radius]
+# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass]
+# COLUMN pl_bmassj:      Planet Mass or Mass*sin(i) [Jupiter Mass]
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_insol:       Insolation Flux [Earth Flux]
+# COLUMN pl_eqt:         Equilibrium Temperature [K]
+# COLUMN st_teff:        Stellar Effective Temperature [K]
+# COLUMN st_rad:         Stellar Radius [Solar Radius]
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_met:         Stellar Metallicity [dex]
+# COLUMN rastr:          RA [sexagesimal]
+# COLUMN ra:             RA [deg]
+# COLUMN decstr:         Dec [sexagesimal]
+# COLUMN dec:            Dec [deg]
+# COLUMN sy_dist:        Distance [pc]
+# COLUMN sy_vmag:        V (Johnson) Magnitude
+# COLUMN sy_kmag:        Ks (2MASS) Magnitude
+# COLUMN sy_gaiamag:     Gaia Magnitude
+#
+pl_name,hostname,sy_pnum,discoverymethod,disc_year,disc_facility,pl_orbper,pl_orbsmax,pl_rade,pl_radj,pl_bmasse,pl_bmassj,pl_orbeccen,pl_insol,pl_eqt,st_teff,st_rad,st_mass,st_met,rastr,ra,decstr,dec,sy_dist,sy_vmag,sy_kmag,sy_gaiamag
+Kepler-223 b,Kepler-223,4,Transit,2014,Kepler,7.38449000000,0.0752500000,2.99000000,0.26674993,7.40000000,0.02328289,0.078000,444.0530,1042.00,5803.00,1.720000,1.125000,0.1000,19h53m16.41s,298.3183909,+47d16m46.14s,47.2794824,1859.71000000,15.6900000,13.6330000,15.3951000
+Kepler-223 c,Kepler-223,4,Transit,2014,Kepler,9.84564000000,0.0911700000,3.44000000,0.30689624,5.10000000,0.01604631,0.150000,302.4740,947.00,5803.00,1.720000,1.125000,0.1000,19h53m16.41s,298.3183909,+47d16m46.14s,47.2794824,1859.71000000,15.6900000,13.6330000,15.3951000
+Kepler-223 d,Kepler-223,4,Transit,2014,Kepler,14.78869000000,0.1195600000,5.24000000,0.46748149,8.00000000,0.02517069,0.037000,175.9510,827.00,5803.00,1.720000,1.125000,0.1000,19h53m16.41s,298.3183909,+47d16m46.14s,47.2794824,1859.71000000,15.6900000,13.6330000,15.3951000
+Kepler-223 e,Kepler-223,4,Transit,2014,Kepler,19.72567000000,0.1448100000,4.60000000,0.41038451,4.80000000,0.01510241,0.051000,119.8820,751.00,5803.00,1.720000,1.125000,0.1000,19h53m16.41s,298.3183909,+47d16m46.14s,47.2794824,1859.71000000,15.6900000,13.6330000,15.3951000

@@ -1,0 +1,42 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Aug 19 13:10:48 2025
+#
+# User preference: *
+#
+# CONSTRAINT:  where (hostname like '%TOI-178%')
+#
+# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN discoverymethod: Discovery Method
+# COLUMN disc_year:      Discovery Year
+# COLUMN disc_facility:  Discovery Facility
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]
+# COLUMN pl_rade:        Planet Radius [Earth Radius]
+# COLUMN pl_radj:        Planet Radius [Jupiter Radius]
+# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass]
+# COLUMN pl_bmassj:      Planet Mass or Mass*sin(i) [Jupiter Mass]
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_insol:       Insolation Flux [Earth Flux]
+# COLUMN pl_eqt:         Equilibrium Temperature [K]
+# COLUMN st_teff:        Stellar Effective Temperature [K]
+# COLUMN st_rad:         Stellar Radius [Solar Radius]
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_met:         Stellar Metallicity [dex]
+# COLUMN rastr:          RA [sexagesimal]
+# COLUMN ra:             RA [deg]
+# COLUMN decstr:         Dec [sexagesimal]
+# COLUMN dec:            Dec [deg]
+# COLUMN sy_dist:        Distance [pc]
+# COLUMN sy_vmag:        V (Johnson) Magnitude
+# COLUMN sy_kmag:        Ks (2MASS) Magnitude
+# COLUMN sy_gaiamag:     Gaia Magnitude
+#
+pl_name,hostname,sy_pnum,discoverymethod,disc_year,disc_facility,pl_orbper,pl_orbsmax,pl_rade,pl_radj,pl_bmasse,pl_bmassj,pl_orbeccen,pl_insol,pl_eqt,st_teff,st_rad,st_mass,st_met,rastr,ra,decstr,dec,sy_dist,sy_vmag,sy_kmag,sy_gaiamag
+TOI-178 b,TOI-178,6,Transit,2021,Transiting Exoplanet Survey Satellite (TESS),1.91455800000,0.0260700000,1.15200000,0.10277456,1.50000000,0.00471950,,,1040.00,4316.00,0.651000,0.650000,-0.2300,00h29m12.48s,7.3020115,-30d27m14.82s,-30.4541159,62.69900000,11.9550000,8.6560000,11.1523000
+TOI-178 c,TOI-178,6,Transit,2021,Transiting Exoplanet Survey Satellite (TESS),3.23845000000,0.0370000000,1.66900000,0.14889821,4.77000000,0.01500802,,97.6159,873.00,4316.00,0.651000,0.650000,-0.2300,00h29m12.48s,7.3020115,-30d27m14.82s,-30.4541159,62.69900000,11.9550000,8.6560000,11.1523000
+TOI-178 d,TOI-178,6,Transit,2021,Transiting Exoplanet Survey Satellite (TESS),6.55770000000,0.0592000000,2.57200000,0.22945847,3.01000000,0.00947047,,24.9125,690.00,4316.00,0.651000,0.650000,-0.2300,00h29m12.48s,7.3020115,-30d27m14.82s,-30.4541159,62.69900000,11.9550000,8.6560000,11.1523000
+TOI-178 e,TOI-178,6,Transit,2021,Transiting Exoplanet Survey Satellite (TESS),9.96188100000,0.0783000000,2.20700000,0.19689535,3.86000000,0.01214486,,21.8202,600.00,4316.00,0.651000,0.650000,-0.2300,00h29m12.48s,7.3020115,-30d27m14.82s,-30.4541159,62.69900000,11.9550000,8.6560000,11.1523000
+TOI-178 f,TOI-178,6,Transit,2021,Multiple Observatories,15.23191500000,0.1039000000,2.28700000,0.20403247,7.72000000,0.02428971,,0.6071,521.00,4316.00,0.651000,0.650000,-0.2300,00h29m12.48s,7.3020115,-30d27m14.82s,-30.4541159,62.69900000,11.9550000,8.6560000,11.1523000
+TOI-178 g,TOI-178,6,Transit,2021,Transiting Exoplanet Survey Satellite (TESS),20.70950000000,0.1275000000,2.87000000,0.25604425,3.94000000,0.01239656,,19.4978,470.00,4316.00,0.651000,0.650000,-0.2300,00h29m12.48s,7.3020115,-30d27m14.82s,-30.4541159,62.69900000,11.9550000,8.6560000,11.1523000

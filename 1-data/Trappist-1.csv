@@ -1,0 +1,43 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Tue Aug 19 06:23:36 2025
+#
+# User preference: *
+#
+# CONSTRAINT:  where (hostname like '%Trappist-1%')
+#
+# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN discoverymethod: Discovery Method
+# COLUMN disc_year:      Discovery Year
+# COLUMN disc_facility:  Discovery Facility
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au]
+# COLUMN pl_rade:        Planet Radius [Earth Radius]
+# COLUMN pl_radj:        Planet Radius [Jupiter Radius]
+# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass]
+# COLUMN pl_bmassj:      Planet Mass or Mass*sin(i) [Jupiter Mass]
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_insol:       Insolation Flux [Earth Flux]
+# COLUMN pl_eqt:         Equilibrium Temperature [K]
+# COLUMN st_teff:        Stellar Effective Temperature [K]
+# COLUMN st_rad:         Stellar Radius [Solar Radius]
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_met:         Stellar Metallicity [dex]
+# COLUMN rastr:          RA [sexagesimal]
+# COLUMN ra:             RA [deg]
+# COLUMN decstr:         Dec [sexagesimal]
+# COLUMN dec:            Dec [deg]
+# COLUMN sy_dist:        Distance [pc]
+# COLUMN sy_vmag:        V (Johnson) Magnitude
+# COLUMN sy_kmag:        Ks (2MASS) Magnitude
+# COLUMN sy_gaiamag:     Gaia Magnitude
+#
+pl_name,hostname,sy_pnum,discoverymethod,disc_year,disc_facility,pl_orbper,pl_orbsmax,pl_rade,pl_radj,pl_bmasse,pl_bmassj,pl_orbeccen,pl_insol,pl_eqt,st_teff,st_rad,st_mass,st_met,rastr,ra,decstr,dec,sy_dist,sy_vmag,sy_kmag,sy_gaiamag
+TRAPPIST-1 b,TRAPPIST-1,7,Transit,2016,La Silla Observatory,1.51082600000,0.0115400000,1.11600000,0.09956302,1.37400000,0.00432309,0.006220,4.1530,397.60,2566.00,0.119200,0.089800,0.0400,23h06m30.33s,346.6263919,-05d02m36.46s,-5.0434618,12.42988881,17.0200000,10.2960000,15.6451000
+TRAPPIST-1 c,TRAPPIST-1,7,Transit,2016,La Silla Observatory,2.42193700000,0.0158000000,1.09700000,0.09786795,1.30800000,0.00411543,0.006540,2.2140,339.70,2566.00,0.119200,0.089800,0.0400,23h06m30.33s,346.6263919,-05d02m36.46s,-5.0434618,12.42988881,17.0200000,10.2960000,15.6451000
+TRAPPIST-1 d,TRAPPIST-1,7,Transit,2016,La Silla Observatory,4.04921900000,0.0222700000,0.78800000,0.07030077,0.38800000,0.00122078,0.008370,1.1150,286.20,2566.00,0.119200,0.089800,0.0400,23h06m30.33s,346.6263919,-05d02m36.46s,-5.0434618,12.42988881,17.0200000,10.2960000,15.6451000
+TRAPPIST-1 e,TRAPPIST-1,7,Transit,2017,Multiple Observatories,6.10101300000,0.0292500000,0.92000000,0.08207704,0.69200000,0.00217728,0.005100,0.6460,249.70,2566.00,0.119200,0.089800,0.0400,23h06m30.33s,346.6263919,-05d02m36.46s,-5.0434618,12.42988881,17.0200000,10.2960000,15.6451000
+TRAPPIST-1 f,TRAPPIST-1,7,Transit,2017,Multiple Observatories,9.20754000000,0.0384900000,1.04500000,0.09322882,1.03900000,0.00326906,0.010070,0.3730,217.70,2566.00,0.119200,0.089800,0.0400,23h06m30.33s,346.6263919,-05d02m36.46s,-5.0434618,12.42988881,17.0200000,10.2960000,15.6451000
+TRAPPIST-1 g,TRAPPIST-1,7,Transit,2017,Multiple Observatories,12.35244600000,0.0468300000,1.12900000,0.10072281,1.32100000,0.00415633,0.002080,0.2520,197.30,2566.00,0.119200,0.089800,0.0400,23h06m30.33s,346.6263919,-05d02m36.46s,-5.0434618,12.42988881,17.0200000,10.2960000,15.6451000
+TRAPPIST-1 h,TRAPPIST-1,7,Transit,2017,Multiple Observatories,18.77286600000,0.0618900000,0.75500000,0.06735670,0.32600000,0.00102571,0.005670,0.1440,171.70,2566.00,0.119200,0.089800,0.0400,23h06m30.33s,346.6263919,-05d02m36.46s,-5.0434618,12.42988881,17.0200000,10.2960000,15.6451000
